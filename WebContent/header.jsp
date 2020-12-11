@@ -31,7 +31,7 @@
       .bd-placeholder-img-lg {
         font-size: 3.5rem;
       }
-    }
+    }    
   </style>
 
   <!-- Custom css -->
@@ -86,7 +86,7 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="searchProduct.jsp">
-          <span data-feather="bar-chart-2"></span>
+          <span data-feather="search"></span>
           Search Products
         </a>
       </li>
@@ -95,13 +95,12 @@
   </nav>
 
   <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-md-4">
-  <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-    <h1 class="h2">Dashboard</h1>
-  </div>
-
- 
+  <div  class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+   <h1 id = "name" class="h2">Dashboard</h1>
+ 	</div>
 
   </main>
+  
   </div>
   </div>
 

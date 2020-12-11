@@ -11,9 +11,9 @@
 </head>
 <body>
 
-<%
+	<%
 	String user = (String)session.getAttribute("email");
-%>
+	%>
 	<div class = "text-center">
 		<h1>"Company" Product Management System</h1>
 		<label>Welcome <%=user%> </label>
