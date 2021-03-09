@@ -5,4 +5,4 @@
 
 
 
-A basic company inventory system made with Java, MySQL, and JSP! Styled with Bootstap. 
+A basic company inventory system made with Java, MySQL, and JSP! Styled with Bootstrap. 
