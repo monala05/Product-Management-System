@@ -1,5 +1,5 @@
 # Product-Management-System
- Basic Company inventory system
+ Basic company inventory system
 
 ![](demo.gif)
 
